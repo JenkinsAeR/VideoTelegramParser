@@ -30,7 +30,12 @@ python3 main.py
 
 рис.1 Меню бота
 
+![Рис. 1](https://cdn1.radikalno.ru/uploads/2020/9/7/571b8e6402c59d958a85c27d65cd8e36-full.png)
 
 рис.2 Найденное видео
 
+![Рис. 2](https://cdn1.radikalno.ru/uploads/2020/9/7/cb0ba01a1f41abd56d5ae070f534a81f-full.png)
+
 рис.3 Созданный пост в целевом канале
+
+![Рис. 3](https://cdn1.radikalno.ru/uploads/2020/9/7/e1e9add7019c161f3bff5e4f65065956-full.png)
