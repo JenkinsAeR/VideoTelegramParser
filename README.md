@@ -30,12 +30,16 @@ python3 main.py
 
 рис.1 Меню бота
 
-![Рис. 1](https://cdn1.radikalno.ru/uploads/2020/9/7/571b8e6402c59d958a85c27d65cd8e36-full.png)
+![Рис. 1]![No1_](https://user-images.githubusercontent.com/39570452/109404372-8cc8be00-7976-11eb-95c6-0fd9371986f3.png)
+
 
 рис.2 Найденное видео
 
-![Рис. 2](https://cdn1.radikalno.ru/uploads/2020/9/7/cb0ba01a1f41abd56d5ae070f534a81f-full.png)
+![Рис. 2]![No2_](https://user-images.githubusercontent.com/39570452/109404393-b681e500-7976-11eb-9a69-08c0bb9ddcf3.png)
+
+
 
 рис.3 Созданный пост в целевом канале
 
-![Рис. 3](https://cdn1.radikalno.ru/uploads/2020/9/7/e1e9add7019c161f3bff5e4f65065956-full.png)
+![Рис. 3]![No3_](https://user-images.githubusercontent.com/39570452/109404397-bb469900-7976-11eb-9ef5-6a81af2daf6c.png)
+
